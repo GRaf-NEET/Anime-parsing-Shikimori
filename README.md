@@ -32,7 +32,7 @@
 1. Запустите скрипт:
 
    ```bash
-   python shikimori_anime_collector.py
+   parsing.py
    ```
 
 2. Введите количество страниц, которые нужно собрать.
@@ -83,5 +83,6 @@ https://shikimori.one/api/animes?order=popularity&page={page_number}&limit=50
 ```
 
 Каждый запрос возвращает до **50 аниме**.
+
 
 
