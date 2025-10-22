@@ -23,7 +23,7 @@
    ```bash
    pip install requests pandas
    ```
-3. Скачайте или скопируйте скрипт в файл `shikimori_anime_collector.py`
+3. Скачайте или скопируйте скрипт в файл `parsing.py`
 
 ---
 
@@ -83,4 +83,5 @@ https://shikimori.one/api/animes?order=popularity&page={page_number}&limit=50
 ```
 
 Каждый запрос возвращает до **50 аниме**.
+
 
